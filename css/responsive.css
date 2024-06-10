@@ -6,7 +6,7 @@
 
 @media (min-width: 1000px) {
     body {
-        height: 100vh;
+        height: 120vh;
     }
     
     /*Widget 1*/
@@ -64,12 +64,12 @@
 
     .contato {
         width: 30%;
-        height: 100%;
+        height: 145%;
     }
 
     .servicos {
         width: 70%;
-        height: 100%;
+        height: 145%;
     }
 
     .servicos-box {
